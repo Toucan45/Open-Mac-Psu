@@ -54,8 +54,8 @@
     "zone_display_mode": 0
   },
   "git": {
-    "repo_type": "https",
-    "repo_username": "Toucan45",
+    "repo_type": "",
+    "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
