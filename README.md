@@ -11,14 +11,8 @@ _an open solution to replacing faulty power supplies in macintosh se and se/30s_
 
 
 ## Gerbers
-Gerbers can be found [here] or in the /gerber directory. You may also edit and generate gerbers however you may please with the KiCad files. <br>
+Gerbers can be found [here](https://github.com/Toucan45/Open-Mac-Psu/tree/573422227fe0c304fcaa28862943a276e656f22d/Gerbers) or in the /gerbers directory. You may also edit and generate gerbers however you may please with the KiCad files. <br>
 I personally found that JLCPCB provided the cheapest prices as of 2026, but I encourage you to check multiple places. 
-
-# Right to resale or reproduction
-Any consumer, industry, or company has the right to edit, modify, reproduce, and resell any files assosciated with this project, including schematics, pictures, BOMs, and finalized PCBs. <br>
-"The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission." <br>
-"The person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law." </p>
 
 ## BOM
 
@@ -30,3 +24,14 @@ Here you can find a BOM for the different power supply variations : <br>
 [Astec PSU bom xlsx file](https://github.com/Toucan45/Open-Mac-Psu/blob/32ab051dbc95035807b1feb3e86211b6a79a08f5/BOM/AstecBom.xlsx) <br>
 [SONY PSU bom xlsx file](https://github.com/Toucan45/Open-Mac-Psu/blob/32ab051dbc95035807b1feb3e86211b6a79a08f5/BOM/SonyBom.xlsx) <br>
 [Power Cord bom xlsx file](https://github.com/Toucan45/Open-Mac-Psu/blob/32ab051dbc95035807b1feb3e86211b6a79a08f5/BOM/J1Cord.xlsx) </p>
+
+The IRM power supplies seem to be sparratically in stock on mouser and digikey. If they are out of stock on your favorite part supplier, consider shopping around. The xlsx BOM files can be imported to any of your favorite part supplier(s).
+
+
+# Right to resale or reproduction
+Any consumer, industry, or company has the right to edit, modify, reproduce, and resell any files assosciated with this project, including schematics, pictures, BOMs, and finalized PCBs. <br>
+"The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission." <br>
+"The person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law." </p>
+
+
