@@ -16,7 +16,7 @@ _an open solution to replacing faulty power supplies in macintosh se and se/30s_
 ## BOM
 
 
-<p>Here you can find a BOM for the different power supply variations : <br>
+Here you can find a BOM for the different power supply variations : <br>
 [Mouser BOM/Cart link](https://www.mouser.com/Tools/SavedCart/Share?AccessID=ede8b16457) <br>
 [Mouser BOM for power cord](https://www.mouser.com/Tools/SavedCart/Share?AccessID=fe829de712) <br>
 [Apple PSU bom xlsx file](https://github.com/Toucan45/Open-Mac-Psu/blob/32ab051dbc95035807b1feb3e86211b6a79a08f5/BOM/AppleBom.xlsx) <br>
