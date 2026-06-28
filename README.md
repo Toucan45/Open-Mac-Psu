@@ -17,3 +17,4 @@ _an open solution to replacing faulty power supplies in macintosh se and se/30s_
 
 
 Here you can find a BOM for the different power supply variations : 
+[Mouser BOM/Cart link](https://www.mouser.com/Tools/SavedCart/Share?AccessID=ede8b16457)
